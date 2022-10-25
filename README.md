@@ -9,8 +9,6 @@
  🤔 I’m looking for help with English and any Android related topic
  
  💬 Ask me about anything, I love sharing ideas 😃
- 
- 📫 How to reach me: leovieira.devv@gmail.com
 
 <div>
   <a href="https://github.com/leo-vieiraa">
@@ -29,4 +27,5 @@
 <div>
   <a href="https://www.linkedin.com/in/leonardo-vieira-3b9a79139/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://discord.gg/LeoVieira#4434" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="mailto:leovieira.devv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
