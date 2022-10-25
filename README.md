@@ -1,10 +1,15 @@
 ### Hi there 👋
 
  🔭 I’m currently working on mobile development
+ 
  🌱 I’m currently learning Jetpack Compose
+ 
  👯 I’m looking to collaborate on Android Open Source Projects
+ 
  🤔 I’m looking for help with English and any Android related topic
+ 
  💬 Ask me about anything, I love sharing ideas 😃
+ 
  📫 How to reach me: leovieira.devv@gmail.com
 
 <div>
