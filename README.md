@@ -4,8 +4,6 @@
  
  🌱 I’m currently learning Jetpack Compose
  
- 👯 I’m looking to collaborate on Android Open Source Projects
- 
  🤔 I’m looking for collaboration with any Android related topic
  
  💬 Ask me about anything, I love sharing ideas 😃
