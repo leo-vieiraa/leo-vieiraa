@@ -6,7 +6,7 @@
  
  👯 I’m looking to collaborate on Android Open Source Projects
  
- 🤔 I’m looking for help with English and any Android related topic
+ 🤔 I’m looking for collaboration with any Android related topic
  
  💬 Ask me about anything, I love sharing ideas 😃
 
